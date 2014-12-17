@@ -13,7 +13,7 @@ namespace XMLstuff {
         public class PetStore {
 
             public PetStore() {
-                PetStoreName = "";  //Joe added a comment here
+                PetStoreName = "";  //Joe added a comment here....
                 PetStoreCity = "";
                 PetStoreZip = null;
                 PetList = new List<Pet>();
@@ -62,7 +62,7 @@ namespace XMLstuff {
 
             PetStore myPetStore = new PetStore(); // a list and some other items inside a wrappr class
 
-            myPetStore.PetStoreName = "Polly's Pets";
+            myPetStore.PetStoreName = "Polly's Pet Smart";
             myPetStore.PetStoreCity = "St. Louis";
             myPetStore.PetStoreZip = 63011;
 
