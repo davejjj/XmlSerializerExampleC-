@@ -62,7 +62,7 @@ namespace XMLstuff {
 
             PetStore myPetStore = new PetStore(); // a list and some other items inside a wrappr class
 
-            myPetStore.PetStoreName = "Polly's Pets";
+            myPetStore.PetStoreName = "Polly's Furry Pets";
             myPetStore.PetStoreCity = "St. Louis";
             myPetStore.PetStoreZip = 63011;
 
