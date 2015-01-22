@@ -13,7 +13,7 @@ namespace XMLstuff {
         public class PetStore {
 
             public PetStore() {
-                PetStoreName = "";  //Joe added a comment here....
+                PetStoreName = "";  //Joe added a comment here....again
                 PetStoreCity = "";
                 PetStoreZip = null;
                 PetList = new List<Pet>();
